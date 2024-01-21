@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EndlessRunner.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\EndlessRunnerEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunner.init.gen.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunnerCharacter.gen.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunnerGameMode.gen.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunner.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunnerCharacter.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\EndlessRunnerGameMode.cpp.obj"
+"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\Default.rc2.res"
+/OUT:"C:\Users\Suric\Documents\Unreal Projects\EndlessRunnerTPSUE5\EndlessRunner\Intermediate\Build\Win64\x64\UnrealEditor\Development\EndlessRunner\UnrealEditor-EndlessRunner.lib"

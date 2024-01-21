@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Suric\\Documents\\Unreal Projects\\EndlessRunnerTPSUE5\\EndlessRunner\\Source\\EndlessRunner\\EndlessRunner.Build.cs",
+		"C:\\Users\\Suric\\Documents\\Unreal Projects\\EndlessRunnerTPSUE5\\EndlessRunner\\Source\\EndlessRunner.Target.cs",
+		"C:\\Users\\Suric\\Documents\\Unreal Projects\\EndlessRunnerTPSUE5\\EndlessRunner\\Source\\EndlessRunnerEditor.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

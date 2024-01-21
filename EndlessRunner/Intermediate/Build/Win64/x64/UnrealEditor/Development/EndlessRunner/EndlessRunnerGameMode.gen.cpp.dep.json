@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\suric\\documents\\unreal projects\\endlessrunnertpsue5\\endlessrunner\\intermediate\\build\\win64\\unrealeditor\\inc\\endlessrunner\\uht\\endlessrunnergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\suric\\documents\\unreal projects\\endlessrunnertpsue5\\endlessrunner\\intermediate\\build\\win64\\x64\\endlessrunnereditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\suric\\documents\\unreal projects\\endlessrunnertpsue5\\endlessrunner\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\endlessrunner\\definitions.endlessrunner.h",
+            "c:\\users\\suric\\documents\\unreal projects\\endlessrunnertpsue5\\endlessrunner\\source\\endlessrunner\\endlessrunnergamemode.h",
+            "c:\\epic\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\epic\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\epic\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\suric\\documents\\unreal projects\\endlessrunnertpsue5\\endlessrunner\\intermediate\\build\\win64\\unrealeditor\\inc\\endlessrunner\\uht\\endlessrunnergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

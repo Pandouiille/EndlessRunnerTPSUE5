@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EndlessRunner",
+			"Path": "..\\Source\\EndlessRunner.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EndlessRunnerEditor",
+			"Path": "..\\Source\\EndlessRunnerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
