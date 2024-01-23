@@ -6,11 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/RunCharacter.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Controllers/RunCharacterController.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Levels/EndlessRunner.umap",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/GameModes/RunGameMode.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/BP_FloorTile.uasset",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8S/39EHPQHFCZ0VGUW8NBPZ28.uasset",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/GW/V94NN3ABCZ2UXVNULAWIU9.uasset",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/3/4I/ZSBXMK52R29172KRCGAM3X.uasset",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Levels/Runner.umap",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/BP_RunCharacter.uasset",
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/RunCharacter.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/T8/46ZIBNTTDDR3AOR2XC9VO6.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/VL/KUT2U1MQ1ND9CXN070OTDM.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/OI/BVNTLHAPOPDXURSVGR63ME.uasset",
@@ -47,15 +53,9 @@
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/KP/VZTB4WP3P1L1F1WL9R6XLZ.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/8/05/U8OLLG133BEQMR58UPHM3P.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/4/4A/NCNZF2U4ZTZ8XZJNF86FNT.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/TQ/YU2OG8VC5X90NCMMPBHQDJ.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8S/39EHPQHFCZ0VGUW8NBPZ28.uasset",
 				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/NJ/F7PD6R0ZS44UJUJCJCK7EE.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/A/GW/V94NN3ABCZ2UXVNULAWIU9.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/__ExternalObjects__/ThirdPerson/Maps/ThirdPersonMap/3/4I/ZSBXMK52R29172KRCGAM3X.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Levels/Runner.umap",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/BP88RunCharacter.uasset",
-				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/BP_RunCharacter.uasset"
+				"C:/Users/Suric/Documents/Unreal Projects/EndlessRunnerTPSUE5/EndlessRunner/Content/Actors/BP88RunCharacter.uasset"
 			]
 		}
 	]
